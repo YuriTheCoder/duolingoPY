@@ -1,0 +1,336 @@
+{
+  "english": {
+    "beginner": [
+      {
+        "word": "hello",
+        "translation": "olá",
+        "category": "greetings",
+        "pronunciation": "heh-LOH",
+        "example": "Hello, how are you?",
+        "example_translation": "Olá, como você está?"
+      },
+      {
+        "word": "goodbye",
+        "translation": "tchau",
+        "category": "greetings",
+        "pronunciation": "good-BYE",
+        "example": "Goodbye, see you later!",
+        "example_translation": "Tchau, até mais tarde!"
+      },
+      {
+        "word": "thank you",
+        "translation": "obrigado",
+        "category": "politeness",
+        "pronunciation": "THANK yoo",
+        "example": "Thank you for your help.",
+        "example_translation": "Obrigado pela sua ajuda."
+      },
+      {
+        "word": "please",
+        "translation": "por favor",
+        "category": "politeness",
+        "pronunciation": "pleez",
+        "example": "Please help me.",
+        "example_translation": "Por favor, me ajude."
+      },
+      {
+        "word": "house",
+        "translation": "casa",
+        "category": "home",
+        "pronunciation": "hows",
+        "example": "I live in a big house.",
+        "example_translation": "Eu moro em uma casa grande."
+      },
+      {
+        "word": "water",
+        "translation": "água",
+        "category": "food_drink",
+        "pronunciation": "WAH-ter",
+        "example": "I drink water every day.",
+        "example_translation": "Eu bebo água todos os dias."
+      },
+      {
+        "word": "food",
+        "translation": "comida",
+        "category": "food_drink",
+        "pronunciation": "food",
+        "example": "The food is delicious.",
+        "example_translation": "A comida está deliciosa."
+      },
+      {
+        "word": "family",
+        "translation": "família",
+        "category": "relationships",
+        "pronunciation": "FAM-i-lee",
+        "example": "My family is very important to me.",
+        "example_translation": "Minha família é muito importante para mim."
+      },
+      {
+        "word": "friend",
+        "translation": "amigo",
+        "category": "relationships",
+        "pronunciation": "frend",
+        "example": "She is my best friend.",
+        "example_translation": "Ela é minha melhor amiga."
+      },
+      {
+        "word": "book",
+        "translation": "livro",
+        "category": "education",
+        "pronunciation": "book",
+        "example": "I'm reading a good book.",
+        "example_translation": "Estou lendo um bom livro."
+      },
+      {
+        "word": "school",
+        "translation": "escola",
+        "category": "education",
+        "pronunciation": "skool",
+        "example": "Children go to school to learn.",
+        "example_translation": "As crianças vão à escola para aprender."
+      },
+      {
+        "word": "work",
+        "translation": "trabalho",
+        "category": "profession",
+        "pronunciation": "wurk",
+        "example": "I go to work every morning.",
+        "example_translation": "Eu vou trabalhar toda manhã."
+      },
+      {
+        "word": "time",
+        "translation": "tempo",
+        "category": "abstract",
+        "pronunciation": "tym",
+        "example": "Time flies when you're having fun.",
+        "example_translation": "O tempo voa quando você está se divertindo."
+      },
+      {
+        "word": "money",
+        "translation": "dinheiro",
+        "category": "abstract",
+        "pronunciation": "MUN-ee",
+        "example": "Money can't buy happiness.",
+        "example_translation": "Dinheiro não compra felicidade."
+      },
+      {
+        "word": "love",
+        "translation": "amor",
+        "category": "emotions",
+        "pronunciation": "luv",
+        "example": "Love makes the world go round.",
+        "example_translation": "O amor faz o mundo girar."
+      }
+    ],
+    "intermediate": [
+      {
+        "word": "beautiful",
+        "translation": "bonito",
+        "category": "adjectives",
+        "pronunciation": "BYOO-ti-ful",
+        "example": "The sunset is beautiful tonight.",
+        "example_translation": "O pôr do sol está bonito esta noite."
+      },
+      {
+        "word": "important",
+        "translation": "importante",
+        "category": "adjectives",
+        "pronunciation": "im-POR-tant",
+        "example": "Education is very important.",
+        "example_translation": "A educação é muito importante."
+      },
+      {
+        "word": "understand",
+        "translation": "entender",
+        "category": "verbs",
+        "pronunciation": "un-der-STAND",
+        "example": "Do you understand the question?",
+        "example_translation": "Você entende a pergunta?"
+      },
+      {
+        "word": "remember",
+        "translation": "lembrar",
+        "category": "verbs",
+        "pronunciation": "ri-MEM-ber",
+        "example": "I remember our first meeting.",
+        "example_translation": "Eu me lembro do nosso primeiro encontro."
+      },
+      {
+        "word": "different",
+        "translation": "diferente",
+        "category": "adjectives",
+        "pronunciation": "DIF-er-ent",
+        "example": "Everyone is different and unique.",
+        "example_translation": "Todo mundo é diferente e único."
+      }
+    ]
+  },
+  "spanish": {
+    "beginner": [
+      {
+        "word": "hola",
+        "translation": "olá",
+        "category": "greetings",
+        "pronunciation": "OH-lah",
+        "example": "¡Hola! ¿Cómo estás?",
+        "example_translation": "Olá! Como você está?"
+      },
+      {
+        "word": "adiós",
+        "translation": "tchau",
+        "category": "greetings",
+        "pronunciation": "ah-DYOHS",
+        "example": "Adiós, hasta luego.",
+        "example_translation": "Tchau, até logo."
+      },
+      {
+        "word": "gracias",
+        "translation": "obrigado",
+        "category": "politeness",
+        "pronunciation": "GRAH-thyahs",
+        "example": "Gracias por tu ayuda.",
+        "example_translation": "Obrigado pela sua ajuda."
+      },
+      {
+        "word": "por favor",
+        "translation": "por favor",
+        "category": "politeness",
+        "pronunciation": "por fah-VOR",
+        "example": "Por favor, ayúdame.",
+        "example_translation": "Por favor, me ajude."
+      },
+      {
+        "word": "casa",
+        "translation": "casa",
+        "category": "home",
+        "pronunciation": "KAH-sah",
+        "example": "Mi casa es muy grande.",
+        "example_translation": "Minha casa é muito grande."
+      },
+      {
+        "word": "agua",
+        "translation": "água",
+        "category": "food_drink",
+        "pronunciation": "AH-gwah",
+        "example": "Bebo agua todos los días.",
+        "example_translation": "Eu bebo água todos os dias."
+      },
+      {
+        "word": "comida",
+        "translation": "comida",
+        "category": "food_drink",
+        "pronunciation": "koh-MEE-dah",
+        "example": "La comida está deliciosa.",
+        "example_translation": "A comida está deliciosa."
+      },
+      {
+        "word": "familia",
+        "translation": "família",
+        "category": "relationships",
+        "pronunciation": "fah-MEE-lyah",
+        "example": "Mi familia es muy importante.",
+        "example_translation": "Minha família é muito importante."
+      },
+      {
+        "word": "amigo",
+        "translation": "amigo",
+        "category": "relationships",
+        "pronunciation": "ah-MEE-goh",
+        "example": "Él es mi mejor amigo.",
+        "example_translation": "Ele é meu melhor amigo."
+      },
+      {
+        "word": "libro",
+        "translation": "livro",
+        "category": "education",
+        "pronunciation": "LEE-broh",
+        "example": "Estoy leyendo un buen libro.",
+        "example_translation": "Estou lendo um bom livro."
+      }
+    ]
+  },
+  "german": {
+    "beginner": [
+      {
+        "word": "hallo",
+        "translation": "olá",
+        "category": "greetings",
+        "pronunciation": "HAH-loh",
+        "example": "Hallo! Wie geht es dir?",
+        "example_translation": "Olá! Como você está?"
+      },
+      {
+        "word": "auf wiedersehen",
+        "translation": "tchau",
+        "category": "greetings",
+        "pronunciation": "owf VEE-der-zayn",
+        "example": "Auf Wiedersehen, bis später!",
+        "example_translation": "Tchau, até mais tarde!"
+      },
+      {
+        "word": "danke",
+        "translation": "obrigado",
+        "category": "politeness",
+        "pronunciation": "DAHN-keh",
+        "example": "Danke für deine Hilfe.",
+        "example_translation": "Obrigado pela sua ajuda."
+      },
+      {
+        "word": "bitte",
+        "translation": "por favor",
+        "category": "politeness",
+        "pronunciation": "BIT-teh",
+        "example": "Bitte hilf mir.",
+        "example_translation": "Por favor, me ajude."
+      },
+      {
+        "word": "haus",
+        "translation": "casa",
+        "category": "home",
+        "pronunciation": "hows",
+        "example": "Ich wohne in einem großen Haus.",
+        "example_translation": "Eu moro em uma casa grande."
+      },
+      {
+        "word": "wasser",
+        "translation": "água",
+        "category": "food_drink",
+        "pronunciation": "VAH-ser",
+        "example": "Ich trinke jeden Tag Wasser.",
+        "example_translation": "Eu bebo água todos os dias."
+      },
+      {
+        "word": "essen",
+        "translation": "comida",
+        "category": "food_drink",
+        "pronunciation": "EH-sen",
+        "example": "Das Essen ist lecker.",
+        "example_translation": "A comida está gostosa."
+      },
+      {
+        "word": "familie",
+        "translation": "família",
+        "category": "relationships",
+        "pronunciation": "fah-MEE-lee-eh",
+        "example": "Meine Familie ist sehr wichtig.",
+        "example_translation": "Minha família é muito importante."
+      },
+      {
+        "word": "freund",
+        "translation": "amigo",
+        "category": "relationships",
+        "pronunciation": "froynt",
+        "example": "Er ist mein bester Freund.",
+        "example_translation": "Ele é meu melhor amigo."
+      },
+      {
+        "word": "buch",
+        "translation": "livro",
+        "category": "education",
+        "pronunciation": "bookh",
+        "example": "Ich lese ein gutes Buch.",
+        "example_translation": "Estou lendo um bom livro."
+      }
+    ]
+  }
+}

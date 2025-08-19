@@ -1,0 +1,15 @@
+customtkinter==5.2.0
+pillow==10.0.0
+requests==2.31.0
+pygame==2.5.2
+googletrans==4.0.0rc1
+deep-translator==1.11.4
+sqlite3
+tkinter
+json
+datetime
+threading
+random
+hashlib
+os
+sys
