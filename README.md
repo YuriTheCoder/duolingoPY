@@ -192,12 +192,6 @@ O sistema utiliza múltiplas APIs gratuitas para garantir disponibilidade:
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 👨‍💻 Autor
-
-**Kilo Code**
-- GitHub: [@kilocode](https://github.com/kilocode)
-- Email: contato@kilocode.dev
-
 ## 🙏 Agradecimentos
 
 - Inspiração no design do Duolingo
@@ -207,7 +201,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-**Desenvolvido com ❤️ e muito ☕ por Kilo Code**
+**Desenvolvido com ❤️ e muito ☕ por Yuri**
 
 ## 📸 Screenshots
 
@@ -225,5 +219,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 - ✅ Interface moderna
 
 ---
+
 
 *Para mais informações, consulte a [documentação completa](docs/) ou abra uma [issue](https://github.com/seu-usuario/linguamaster-pro/issues).*
